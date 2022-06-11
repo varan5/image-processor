@@ -1,0 +1,9 @@
+File from: [downloaded/images/hello.png]
+
+File to: [images/compress/png/outputhello.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\Varan\Desktop\Code\Buildthoughts\Code\Node\Projects\Processor\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o images/compress/png/outputhello.png downloaded/images/hello.png
+  error: Read error (libpng failed)
+  error: cannot decode image downloaded\images\hello.png

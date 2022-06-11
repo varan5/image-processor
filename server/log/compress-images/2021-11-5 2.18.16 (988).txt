@@ -1,0 +1,7 @@
+File from: [https://res.cloudinary.com/buildthoughts/image/upload/v1638649330/Processor/xjrcyne4afjzyyuuvbrh.png]
+
+File to: [images/compress/png/outputxjrcyne4afjzyyuuvbrh.png]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

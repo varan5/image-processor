@@ -1,0 +1,8 @@
+File from: [downloaded/compress/png]
+
+File to: [images/compress/png/outputpng]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: C:\Users\Varan\Desktop\Code\Buildthoughts\Code\Node\Projects\Processor\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o images/compress/png/outputpng downloaded/compress/png
+  error: cannot open downloaded\compress\png for reading
